@@ -129,7 +129,8 @@ These insights empower stakeholders with key business metrics, enabling strategi
 - The **Tableau Customer Analytics Dashboard** was independently developed by me as an extension of this learning project, allowing me to apply what I learned through data visualization and analysis.
 
 - Thank you, Baraa sir, for sharing your knowledge and making complex concepts easier to understand!
-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa)
+  
+ [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa)
 
 ## 🛡️ License
 
