@@ -92,15 +92,32 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ---
 
-### Tableau: Analytics & Reporting (Data Analysis)
+### Tableau Customer Analysis Dashboard
+An interactive customer analytics dashboard developed using Tableau Desktop and connected to the Gold layer of the SQL Server Data Warehouse.
 
-#### Objective
-Develop SQL-based analytics to deliver detailed insights into:
-- **Customer Behavior**
-- **Product Performance**
-- **Sales Trends**
+#### Key Performance Indicators (KPIs)
+- **Total Customers**
+- **Total Sales**
+- **Average Monthly Spend**
+- **Average Orders**
 
+#### Visualizations
+- **Customer Distribution by Segment**
+- **Customer Age Analysis**
+- **Top 5 Customers by Sales**
+- **Customer Recency Analysis**
+- **Customer Order Frequency**
+
+#### Tools & Technologies
+- **Microsoft SQL Server**
+- **Tableau Desktop**
+- **SQL Server Gold Layer**
+- **Data Visualization**
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
+
+#### Dashboard 
+
+(06_Visualizations/Customer_Analysis_Dashboard.png)
 
 ---
 
