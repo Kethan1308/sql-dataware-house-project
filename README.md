@@ -1,6 +1,6 @@
 # Data Warehouse and Customer Analytics DashBoard Project
 
-The materials of the data warehouse project: the source files, every script from the videos, and the docs.
+The materials of the data warehouse project: the source files, every script, and the docs.
 
 You take raw files from two systems, a CRM and an ERP, and build one data warehouse in SQL Server. At the end, the data is clean and ready for analysis.
 
@@ -119,6 +119,16 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ![Customer Analysis Dashboard](./06_%20Visualizations/Customer_Analysis_Dashboard.png)
 
 ---
+
+### 🙏 Acknowledgements
+
+- I would like to express my sincere gratitude to **Baraa Khatib** sir for his excellent tutorials and guidance throughout this project. His teaching helped me understand SQL Data Warehousing, the Medallion Architecture, ETL workflows, and Exploratory Data Analysis (EDA).
+
+- I was able to build a strong foundation and implement the Data Warehouse and EDA concepts by following his learning resources.
+
+- The **Tableau Customer Analytics Dashboard** was independently developed by me as an extension of this learning project, allowing me to apply what I learned through data visualization and analysis.
+
+- Thank you, Baraa sir, for sharing your knowledge and making complex concepts easier to understand!
 
 ## 🛡️ License
 
