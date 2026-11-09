@@ -1,10 +1,8 @@
-# Data Warehouse and Analytics Project
+# Data Warehouse and Customer Analytics DashBoard Project
 
 The materials of the data warehouse project: the source files, every script from the videos, and the docs.
 
 You take raw files from two systems, a CRM and an ERP, and build one data warehouse in SQL Server. At the end, the data is clean and ready for analysis.
-
-**New here? Open the setup guide in the `00_setup` folder.** It walks you through installing SQL Server and creating the database, on Windows and Mac, with the fixes for the common errors.
 
 ```
 sql-data-warehouse-project/
@@ -20,7 +18,7 @@ sql-data-warehouse-project/
 └── 04_Tests/               checks the quality of the silver and gold data
 ```
 
-The project reads the six files from `C:\sql\dwh_project\01_datasets\`. Put the folder there, or change the six paths in `03_scripts/bronze/proc_load_bronze.sql`. The videos show the folders without numbers: `datasets` there is `01_datasets` here, `scripts` is `03_scripts`.
+The project reads the six files from `01_Datasets`. Put the folder there, or change the six paths in `03_scripts/bronze/proc_load_bronze.sql`.
 
 ---
 ## 🏗️ Data Architecture
@@ -53,7 +51,7 @@ sql-data-analytics-project/
 └── 05_EDA/                      the queries, in the order of the videos
     └── 00_init_database.sql         builds the database from the CSV files
 ```
-- run `03_scripts/00_init_database.sql`. It builds the database from the CSV files in `C:\sql\sql-data-analytics-project\01_datasets\csv-files\`.
+- run `05_EDA/00_init_database.sql`. It builds the database from the CSV files in `01_Datasets`.
 
 ## 🗺️ What you build
 
