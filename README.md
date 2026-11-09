@@ -8,16 +8,16 @@ You take raw files from two systems, a CRM and an ERP, and build one data wareho
 
 ```
 sql-data-warehouse-project/
-├── datasets/            the six source files the project loads
+├── 01_Datasets/            the six source files the project loads
 │   ├── source_crm/         three files from the CRM system
 │   └── source_erp/         three files from the ERP system
-├── docs/                the requirements, the diagrams and the notes
-├── scripts/             the project scripts, in the order of the videos
+├── 02_Docs/                the requirements, the diagrams and the notes
+├── 03_Scripts/             the project scripts, in the order of the videos
 │   ├── init_database.sql   creates the database: run it first
 │   ├── bronze/             loads the raw files
 │   ├── silver/             cleans and prepares the data
 │   └── gold/               builds the tables for analysis
-└── tests/               checks the quality of the silver and gold data
+└── 04_Tests/               checks the quality of the silver and gold data
 ```
 
 The project reads the six files from `C:\sql\dwh_project\01_datasets\`. Put the folder there, or change the six paths in `03_scripts/bronze/proc_load_bronze.sql`. The videos show the folders without numbers: `datasets` there is `01_datasets` here, `scripts` is `03_scripts`.
@@ -46,11 +46,11 @@ In this project, you:
 # SQL Data Analytics Project
 ```
 sql-data-analytics-project/
-├── 01_datasets/                     the data, as a backup and as CSV files
+├── 01_Datasets/                     the data, as a backup and as CSV files
 │   ├── DataWarehouseAnalytics.bak   the database, ready to restore
 │   └── csv-files/                   the same data, to build the database yourself
-├── 02_docs/                         the project roadmap and notes
-└── 03_scripts/                      the queries, in the order of the videos
+├── 02_Docs/                         the project roadmap and notes
+└── 05_EDA/                      the queries, in the order of the videos
     └── 00_init_database.sql         builds the database from the CSV files
 ```
 - run `03_scripts/00_init_database.sql`. It builds the database from the CSV files in `C:\sql\sql-data-analytics-project\01_datasets\csv-files\`.
