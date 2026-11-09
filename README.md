@@ -49,8 +49,8 @@ In this project, you:
 - **SQL Server and SSMS:** the setup guide in `00_setup` has the links and every step.
 - **[Git](https://github.com/):** a GitHub account, to save and share your project.
 - **[draw.io](https://www.drawio.com/):** to draw the architecture and the data model.
-- **[Notion template](https://www.notion.com/templates/sql-data-warehouse-project):** the project plan, ready to copy.
-- **[Notion project steps](https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4):** every phase and task of the project.
+- **[Notion template](https://www.notion.com):** the project plan, ready to copy.
+- **[Notion project steps]([https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4](https://app.notion.com/p/SQL-Data-Warehouse-Project-a8ed520c3346828da1ad017e149fa1c0?source=copy_link)):** every phase and task of the project.
 
 ---
 
