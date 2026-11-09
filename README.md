@@ -43,6 +43,29 @@ In this project, you:
 4. **Analyze it:** answer business questions with SQL.
 
 ---
+# SQL Data Analytics Project
+```
+sql-data-analytics-project/
+├── 01_datasets/                     the data, as a backup and as CSV files
+│   ├── DataWarehouseAnalytics.bak   the database, ready to restore
+│   └── csv-files/                   the same data, to build the database yourself
+├── 02_docs/                         the project roadmap and notes
+└── 03_scripts/                      the queries, in the order of the videos
+    └── 01_init_database.sql         builds the database from the CSV files
+```
+- run `03_scripts/00_init_database.sql`. It builds the database from the CSV files in `C:\sql\sql-data-analytics-project\01_datasets\csv-files\`.
+
+## 🗺️ What you build
+
+![The project roadmap](docs/Project%20Roadmap.png)
+
+The project has two parts, and the scripts follow them:
+
+- **Exploratory data analysis**, scripts `01` to `06`: you get to know the data, from the tables and dates to the big numbers and the top performers.
+- **Advanced analytics**, scripts `07` to `13`: you go deeper with trends, running totals, performance, part-to-whole and segments. Two reports close the project, one for customers and one for products.
+
+---
+
 
 ## 🛠️ Important Links & Tools
 
