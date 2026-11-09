@@ -51,7 +51,7 @@ sql-data-analytics-project/
 │   └── csv-files/                   the same data, to build the database yourself
 ├── 02_docs/                         the project roadmap and notes
 └── 03_scripts/                      the queries, in the order of the videos
-    └── 01_init_database.sql         builds the database from the CSV files
+    └── 00_init_database.sql         builds the database from the CSV files
 ```
 - run `03_scripts/00_init_database.sql`. It builds the database from the CSV files in `C:\sql\sql-data-analytics-project\01_datasets\csv-files\`.
 
