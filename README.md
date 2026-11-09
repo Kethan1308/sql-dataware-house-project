@@ -113,9 +113,11 @@ An interactive customer analytics dashboard developed using Tableau Desktop and 
 - **Tableau Desktop**
 - **SQL Server Gold Layer**
 - **Data Visualization**
+
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
 #### Dashboard 
+---
 
 ![Customer Analysis Dashboard](06_Visualizations/Customer20%_Analysis_Dashboard.png)
 
