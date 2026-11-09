@@ -116,10 +116,9 @@ An interactive customer analytics dashboard developed using Tableau Desktop and 
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
-#### Dashboard 
----
+### Dashboard Preview
 
-![Customer Analysis Dashboard](06_Visualizations/Customer20%_Analysis_Dashboard.png)
+![Customer Analysis Dashboard](./06_Visualizations/Customer_Analysis_Dashboard.png)
 
 ---
 
