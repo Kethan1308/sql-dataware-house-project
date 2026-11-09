@@ -118,8 +118,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ### Dashboard Preview
 
-![Customer Analysis Dashboard](06_Visualizations/Customer_Analysis_Dashboard.png)
-<u>(06_ Visualizations/Customer_Analysis_Dashboard.png)<u>
+![Customer Analysis Dashboard](./06_%20Visualizations/Customer_Analysis_Dashboard.png)
 
 ---
 
