@@ -114,13 +114,13 @@ An interactive customer analytics dashboard developed using Tableau Desktop and 
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
-### Dashboard Preview
+#### Dashboard Preview
 
 ![Customer Analysis Dashboard](./06_%20Visualizations/Customer_Analysis_Dashboard.png)
 
 ---
 
-### 🙏 Acknowledgements
+#### 🙏 Acknowledgements
 
 - I would like to express my sincere gratitude to **Baraa Khatib** sir for his excellent tutorials and guidance throughout this project. His teaching helped me understand SQL Data Warehousing, the Medallion Architecture, ETL workflows, and Exploratory Data Analysis (EDA).
 
@@ -129,6 +129,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 - The **Tableau Customer Analytics Dashboard** was independently developed by me as an extension of this learning project, allowing me to apply what I learned through data visualization and analysis.
 
 - Thank you, Baraa sir, for sharing your knowledge and making complex concepts easier to understand!
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa)
 
 ## 🛡️ License
 
