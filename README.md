@@ -120,6 +120,10 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
+![Product Insights Dashboard](./06_%20Visualizations/Product_Insights_Dashboard.png)
+
+---
+
 #### 🙏 Acknowledgements
 
 - I would like to express my sincere gratitude to **Baraa Khatib** sir for his excellent tutorials and guidance throughout this project. His teaching helped me understand SQL Data Warehousing, the Medallion Architecture, ETL workflows, and Exploratory Data Analysis (EDA).
