@@ -102,6 +102,7 @@ An interactive customer analytics dashboard developed using Tableau Desktop and 
 #### Visualizations
 - **Customer Distribution by Segment**
 - **Customer Age Analysis**
+- **Customer Spending Analysis**
 - **Top 5 Customers by Sales**
 - **Customer Recency Analysis**
 - **Customer Order Frequency**
@@ -119,6 +120,32 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ![Customer Analysis Dashboard](./06_%20Visualizations/Customer_Analysis_Dashboard.png)
 
 ---
+### Tableau Product Insights Dashboard
+An interactive product analytics dashboard developed using Tableau Desktop and connected to the Gold layer of the SQL Server Data Warehouse.
+
+#### Key Performance Indicators (KPIs)
+- **Total Products**
+- **Total Sales**
+- **Total Quantity**
+- **Total Customers**
+
+#### Visualizations
+- **Products by Category**
+- **Products by Segment**
+- **Average Selling Price by Category**
+- **Top 10 Products by Sales**
+- **Top 5 Product Performance by Orders**
+- **Top 5 Sales by Subcategory**
+
+#### Tools & Technologies
+- **Microsoft SQL Server**
+- **Tableau Desktop**
+- **SQL Server Gold Layer**
+- **Data Visualization**
+
+These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
+
+#### Dashboard Preview
 
 ![Product Insights Dashboard](./06_%20Visualizations/Product_Insights_Dashboard.png)
 
