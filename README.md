@@ -157,7 +157,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 - I was able to build a strong foundation and implement the Data Warehouse and EDA concepts by following his learning resources.
 
-- The **Tableau Customer Analytics Dashboard** was independently developed by me as an extension of this learning project, allowing me to apply what I learned through data visualization and analysis.
+- The **Tableau Customer Analytics Dashboard** and **Tableau Product Insights Dashboard** was independently developed by me as an extension of this learning project, allowing me to apply what I learned through data visualization and analysis.
 
 - Thank you, Baraa sir, for sharing your knowledge and making complex concepts easier to understand!
   
